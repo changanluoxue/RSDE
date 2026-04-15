@@ -6,7 +6,6 @@ This work implements "Option pricing under non-Markovian stochastic volatility m
 * `sig-representation-v_I`: Used to compare the differences between v, I and sig_v, sig_I.
 * `sig-representation-price-SDE-MC`: Calculates option prices using Stochastic Differential Equations (SDE) and compares them with the MC benchmark.
 * `sig-representation-price-PDE-CN`: Calculates option prices using Partial Differential Equations (PDE) via the Crank-Nicolson method.
-* `sig-representation-price-PDE-analytical`: Calculates option prices using PDEs (Analytical solution, strictly for the beta=1 case).
 
 ### Non-Markovian Example (rHeston, rBergomi):
 * `nn-sig-training`: Used for training the neural network.
